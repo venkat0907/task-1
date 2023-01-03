@@ -1,0 +1,4 @@
+1. create a build directory and navigate to it "mkdir build"
+2. run "cmake .." in build directory
+3  run "make" in build directory
+4. run"./shapes" to see the output and "./shapes_test" to see the tests output
